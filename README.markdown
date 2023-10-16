@@ -1,3 +1,3 @@
-# Cosas
+# Miniproyecto: Regalo
 
-Hola papud
+Un corto proyecto para el hermano de una amiga, tengo fe.
