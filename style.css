@@ -11,3 +11,13 @@
     height: 300px;
     box-shadow: 0px 0px 10px rgba(0, 0, 0,.5)
 }
+* {
+    font-family: 'Poppins', sans-serif;
+}
+h1 {
+    font-family: 'Pixelify Sans', sans-serif;
+}
+h2 {
+    font-family: 'Pixelify Sans', sans-serif;
+    text-align: center;
+}
