@@ -2,7 +2,6 @@
     display: flex;
     flex-wrap: nowrap;
     overflow: scroll;
-    background-color: #222;
 }
 .imagenes {
     flex: 1 0 auto;
@@ -10,4 +9,5 @@
     background-color: white;
     width: 300px;
     height: 300px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0,.5)
 }
